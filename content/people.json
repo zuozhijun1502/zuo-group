@@ -90,7 +90,7 @@
           "destination": ""
         },
         {
-          "visible": true,
+          "visible": false,
           "name": "Yuxiang Zhang",
           "role": "Master Student",
           "photo": "/assets/uploads/20240927_1727437935865.jpg",
@@ -104,7 +104,7 @@
           "destination": ""
         },
         {
-          "visible": true,
+          "visible": false,
           "name": "Jinrong Du",
           "role": "Master Student",
           "photo": "",
@@ -333,6 +333,34 @@
           "tags": [],
           "degree": "",
           "year": "2022-2025",
+          "destination": ""
+        },
+        {
+          "visible": true,
+          "name": "Yuxiang Zhang",
+          "role": "Master Student",
+          "photo": "",
+          "photoFit": "cover",
+          "photoPosition": "center",
+          "photoSize": "standard",
+          "featured": false,
+          "tags": [],
+          "degree": "",
+          "year": "2023-2026",
+          "destination": ""
+        },
+        {
+          "visible": true,
+          "name": "Jinrong Du",
+          "role": "Master student",
+          "photo": "",
+          "photoFit": "cover",
+          "photoPosition": "center",
+          "photoSize": "standard",
+          "featured": false,
+          "tags": [],
+          "degree": "",
+          "year": "2023-2026",
           "destination": ""
         }
       ]
