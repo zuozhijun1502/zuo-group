@@ -5,6 +5,9 @@
     "title": "Zhijun Zuo Research Group",
     "subtitle": "Photoredox, radical, and asymmetric metal catalysis in synthesis.",
     "backgroundImage": "assets/hero-lab.png",
+    "backgroundSize": "cover",
+    "backgroundPosition": "center",
+    "heroHeight": "standard",
     "titleSize": "normal",
     "textAlignment": "left",
     "buttons": []
@@ -34,6 +37,11 @@
       "journal": "Angew. Chem., Int. Ed.",
       "details": "65, e7485683.",
       "tocImage": "assets/uploads/图片1.png",
+      "tocWidth": "standard",
+      "tocHeight": "standard",
+      "tocFit": "contain",
+      "tocPosition": "center",
+      "tocBackground": "white",
       "tocLabel": "",
       "tocColor": "blue",
       "doiUrl": "10.1002/anie.7485683",
@@ -51,6 +59,10 @@
       "details": "28, 5004.",
       "tocImage": "/assets/uploads/图片1.jpg",
       "tocWidth": "standard",
+      "tocHeight": "standard",
+      "tocFit": "contain",
+      "tocPosition": "center",
+      "tocBackground": "white",
       "tocLabel": "TOC pending",
       "tocColor": "blue",
       "doiUrl": "https://doi.org/10.1021/acs.orglett.6c01178",
@@ -67,6 +79,11 @@
       "journal": "Angew. Chem., Int. Ed.",
       "details": "64, e202515761.",
       "tocImage": "/assets/uploads/anie202515761-gra-0001-m.jpg",
+      "tocWidth": "standard",
+      "tocHeight": "standard",
+      "tocFit": "contain",
+      "tocPosition": "center",
+      "tocBackground": "white",
       "tocLabel": "TOC pending",
       "tocColor": "red",
       "doiUrl": "https://doi.org/10.1002/anie.202515761",
@@ -83,6 +100,11 @@
       "journal": "Green Synth. Catal.",
       "details": "DOI: 10.1016/j.gresc.2025.06.003.",
       "tocImage": "/assets/uploads/webue_20250605_82061749129990217.png",
+      "tocWidth": "standard",
+      "tocHeight": "standard",
+      "tocFit": "contain",
+      "tocPosition": "center",
+      "tocBackground": "white",
       "tocLabel": "TOC pending",
       "tocColor": "gold",
       "doiUrl": "https://doi.org/10.1016/j.gresc.2025.06.003",
@@ -99,6 +121,11 @@
       "journal": "Org. Lett.",
       "details": "DOI: 10.1021/acs.orglett.4c04420.",
       "tocImage": "/assets/uploads/webue_20241218_11781734513554227.png",
+      "tocWidth": "standard",
+      "tocHeight": "standard",
+      "tocFit": "contain",
+      "tocPosition": "center",
+      "tocBackground": "white",
       "tocLabel": "TOC pending",
       "tocColor": "blue",
       "doiUrl": "https://doi.org/10.1021/acs.orglett.4c04420",
@@ -115,6 +142,11 @@
       "journal": "Green Chem.",
       "details": "DOI: 10.1039/D4GC03774J.",
       "tocImage": "/assets/uploads/webue_20241001_90441727786784809.png",
+      "tocWidth": "standard",
+      "tocHeight": "standard",
+      "tocFit": "contain",
+      "tocPosition": "center",
+      "tocBackground": "white",
       "tocLabel": "TOC pending",
       "tocColor": "teal",
       "doiUrl": "https://doi.org/10.1039/D4GC03774J",
@@ -131,6 +163,11 @@
       "journal": "Org. Chem. Front.",
       "details": "DOI: 10.1039/D4QO01517G.",
       "tocImage": "/assets/uploads/webue_20240927_26851727430093709.jpg",
+      "tocWidth": "standard",
+      "tocHeight": "standard",
+      "tocFit": "contain",
+      "tocPosition": "center",
+      "tocBackground": "white",
       "tocLabel": "TOC pending",
       "tocColor": "red",
       "doiUrl": "https://doi.org/10.1039/D4QO01517G",
@@ -147,6 +184,11 @@
       "journal": "Synlett",
       "details": "DOI: 10.1055/a-2342-8284.",
       "tocImage": "/assets/uploads/webue_20240927_12051727429985895.jpg",
+      "tocWidth": "standard",
+      "tocHeight": "standard",
+      "tocFit": "contain",
+      "tocPosition": "center",
+      "tocBackground": "white",
       "tocLabel": "TOC pending",
       "tocColor": "gold",
       "doiUrl": "https://doi.org/10.1055/a-2342-8284",
@@ -163,6 +205,11 @@
       "journal": "Angew. Chem., Int. Ed.",
       "details": "63, e202401579.",
       "tocImage": "/assets/uploads/webue_20240927_31121727429740424.png",
+      "tocWidth": "standard",
+      "tocHeight": "standard",
+      "tocFit": "contain",
+      "tocPosition": "center",
+      "tocBackground": "white",
       "tocLabel": "TOC pending",
       "tocColor": "blue",
       "doiUrl": "https://doi.org/10.1002/anie.202401579",
@@ -179,6 +226,11 @@
       "journal": "Org. Lett.",
       "details": "26, 35.",
       "tocImage": "/assets/uploads/webue_20240927_26221727429607686.jpg",
+      "tocWidth": "standard",
+      "tocHeight": "standard",
+      "tocFit": "contain",
+      "tocPosition": "center",
+      "tocBackground": "white",
       "tocLabel": "TOC pending",
       "tocColor": "teal",
       "doiUrl": "https://doi.org/10.1021/acs.orglett.3c03450",
@@ -186,10 +238,32 @@
       "doiButtonLabel": "",
       "journalUrl": "https://pubs.acs.org/doi/10.1021/acs.orglett.3c03450",
       "journalButtonLabel": ""
+    },
+    {
+      "visible": true,
+      "year": "2026",
+      "title": "Photoexcited Palladium-Catalyzed Defluorinative 1,2-Functional-Group Migration of Allylic Alcohols",
+      "authors": "Xinyue Ma‡ ,Qianqian Li‡ ,Wei Sun, Zhijun Zuo*",
+      "journal": "Org. Lett",
+      "details": "10.1021/acs.orglett.6c03929",
+      "tocImage": "/assets/uploads/图片1-1.png",
+      "tocWidth": "standard",
+      "tocHeight": "standard",
+      "tocFit": "contain",
+      "tocPosition": "center",
+      "tocBackground": "white",
+      "tocLabel": "TOC pending",
+      "tocColor": "",
+      "doiUrl": "https://doi.org/10.1021/acs.orglett.6c03929",
+      "doiLabel": "",
+      "doiButtonLabel": "",
+      "journalUrl": "https://pubs.acs.org/orlef7/article-abstract/doi/10.1021/acs.orglett.6c03929/5444333/Photoexcited-Palladium-Catalyzed-Defluorinative-1?redirectedFrom=fulltext",
+      "journalButtonLabel": ""
     }
   ],
   "prior": [
     {
+      "visible": true,
       "title": "1,3-Oxyalkynylation of Aryl Cyclopropanes with Ethynylbenziodoxolones Using Photoredox Catalysis.",
       "authors": "Zhijun Zuo, Armido Studer*.",
       "journal": "Org. Lett.",
@@ -197,6 +271,7 @@
       "details": "24, 949."
     },
     {
+      "visible": true,
       "title": "Cooperative NHC/Photoredox Catalyzed Ring-Opening of Aryl Cyclopropanes to 1-Aroyloxylated-3-Acylated Alkanes.",
       "authors": "Zhijun Zuo, Constantin G. Daniliuc, Armido Studer*.",
       "journal": "Angew. Chem., Int. Ed.",
@@ -204,6 +279,7 @@
       "details": "60, 25456."
     },
     {
+      "visible": true,
       "title": "Regiodivergent Synthesis of Spirocyclic Compounds through Pd-Catalyzed Regio- and Enantioselective [3+2] Spiroannulation.",
       "authors": "Barry M. Trost*, Zhijun Zuo.",
       "journal": "Angew. Chem., Int. Ed.",
@@ -211,6 +287,7 @@
       "details": "60, 5806."
     },
     {
+      "visible": true,
       "title": "Pd(0)-Catalyzed Diastereo- and Enantioselective Intermolecular Cycloaddition for Rapid Assembly of 2-Acyl-methylenecyclopentanes.",
       "authors": "Barry M. Trost*, Zhijun Zuo, Youliang Wang.",
       "journal": "Org. Lett.",
@@ -218,6 +295,7 @@
       "details": "23, 979."
     },
     {
+      "visible": true,
       "title": "Transition-Metal-Catalyzed Cycloaddition Reactions to Access Seven-Membered Rings.",
       "authors": "Barry M. Trost*, Zhijun Zuo, Johnathan E. Schultz.",
       "journal": "Chem. Eur. J.",
@@ -225,6 +303,7 @@
       "details": "26, 15354."
     },
     {
+      "visible": true,
       "title": "Pd(0)-Catalyzed Chemo-, Diastereo-, and Enantioselective alpha-Quaternary Alkylation of Branched Aldehydes.",
       "authors": "Barry M. Trost*, Zhijun Zuo, Youliang Wang, Johnathan E. Schultz.",
       "journal": "ACS Catal.",
@@ -232,6 +311,7 @@
       "details": "10, 9496."
     },
     {
+      "visible": true,
       "title": "Highly Regio-, Diastereo-, and Enantioselective Synthesis of Tetrahydroazepines and Benzo[b]oxepines via Palladium-Catalyzed [4+3] Cycloaddition Reactions.",
       "authors": "Barry M. Trost*, Zhijun Zuo.",
       "journal": "Angew. Chem., Int. Ed.",
@@ -239,6 +319,7 @@
       "details": "59, 1243."
     },
     {
+      "visible": true,
       "title": "A Borane-Mediated Palladium-Catalyzed Reductive Allylic Alkylation of alpha,beta-Unsaturated Carbonyl Compounds.",
       "authors": "Barry M. Trost*, Zhijun Zuo, Johnathan E. Schultz, Nagaraju Anugula, Katherine A. Carr.",
       "journal": "Chem. Sci.",
@@ -246,6 +327,7 @@
       "details": "11, 2136."
     },
     {
+      "visible": true,
       "title": "Palladium-Catalyzed [2+2+1] Spiroannulation via Alkyne-Directed Remote C-H Arylation and Subsequent Arene Dearomatization.",
       "authors": "Zhijun Zuo, Jing Wang, Jingjing Liu*, Yaoyu Wang, Xinjun Luan*.",
       "journal": "Angew. Chem., Int. Ed.",
@@ -253,6 +335,7 @@
       "details": "59, 653."
     },
     {
+      "visible": true,
       "title": "Palladium-Catalyzed Aryne Insertion/Arene Dearomatization Domino Reaction: A Highly Chemoselective Route to Spirofluorenes.",
       "authors": "Zhijun Zuo, Hui Wang, Yunxia Diao, Yicong Ge, Jingjing Liu, Xinjun Luan*.",
       "journal": "ACS Catal.",
@@ -260,6 +343,7 @@
       "details": "8, 11029."
     },
     {
+      "visible": true,
       "title": "Modular Assembly of Spirocarbocyclic Scaffolds through Pd0-Catalyzed Intermolecular Dearomatizing [2+2+1] Annulation of Bromonaphthols with Aryl Iodides and Alkynes.",
       "authors": "Zhijun Zuo, Hui Wang, Liangxin Fan, Jingjing Liu, Yaoyu Wang, Xinjun Luan*.",
       "journal": "Angew. Chem., Int. Ed.",
@@ -267,6 +351,7 @@
       "details": "56, 2767."
     },
     {
+      "visible": true,
       "title": "Highly Stereoselective Synthesis of Imine-Containing Dibenzo[b,d]azepines by a Palladium(II)-Catalyzed [5+2] Oxidative Annulation of o-Arylanilines with Alkynes.",
       "authors": "Zhijun Zuo, Jingjing Liu, Jiang Nan, Liangxin Fan, Wei Sun, Yaoyu Wang, Xinjun Luan*.",
       "journal": "Angew. Chem., Int. Ed.",
@@ -274,6 +359,7 @@
       "details": "54, 15385."
     },
     {
+      "visible": true,
       "title": "Ru(II)-Catalyzed Oxidative Spiroannulation of 2-Arylphenols with Alkynes via a C-H Activation/Dearomatization Strategy.",
       "authors": "Zhijun Zuo, Xin Yang, Jingjing Liu, Jiang Nan, Lu Bai, Yaoyu Wang, Xinjun Luan*.",
       "journal": "J. Org. Chem.",
@@ -281,6 +367,7 @@
       "details": "80, 3349."
     },
     {
+      "visible": true,
       "title": "RuII-Catalyzed Vinylative Dearomatization of Naphthols via a C(sp2)-H Bond Activation Approach.",
       "authors": "Jiang Nan, Zhijun Zuo, Lei Luo, Lu Bai, Huayu Zheng, Yini Yuan, Jingjing Liu, Xinjun Luan*, Yaoyu Wang.",
       "journal": "J. Am. Chem. Soc.",
@@ -288,6 +375,7 @@
       "details": "135, 17306."
     },
     {
+      "visible": true,
       "title": "Palladium(0)-catalyzed [2+2+1] Cyclization of 1,6-Enynes with Vinyl Bromides.",
       "authors": "Yunxia Diao, Zhijun Zuo, Hui Wang, Jingjing Liu*, Xinjun Luan*.",
       "journal": "Org. Biomol. Chem.",
@@ -295,6 +383,7 @@
       "details": "15, 4601."
     },
     {
+      "visible": true,
       "title": "Catalytic Enantioselective Tautomerization of Metastable Enamines.",
       "authors": "Jingjing Liu, Xin Yang, Zhijun Zuo, Jiang Nan, Yaoyu Wang, Xinjun Luan*.",
       "journal": "Org. Lett.",
@@ -302,6 +391,7 @@
       "details": "20, 244."
     },
     {
+      "visible": true,
       "title": "Palladium-Catalyzed Decarboxylative Asymmetric Allylic Alkylation of Dihydroquinolinones.",
       "authors": "Barry M. Trost*, Anugula Nagaraju, Feijun Wang, Zhijun Zuo, Jiayi Xu, Kami L. Hull.",
       "journal": "Org. Lett.",
@@ -309,6 +399,7 @@
       "details": "21, 1784."
     },
     {
+      "visible": true,
       "title": "Palladium-Catalyzed Regio-, Enantio- and Diastereoselective Asymmetric [3+2] Cycloaddition Reactions: Synthesis of chiral cyclopentyl phosphonates.",
       "authors": "Barry M. Trost*, Anand H. Shinde, Youliang Wang, Zhijun Zuo, Chang Min.",
       "journal": "ACS Catal.",
@@ -316,6 +407,7 @@
       "details": "10, 1969."
     },
     {
+      "visible": true,
       "title": "Direct Asymmetric Dearomatization of 2-Naphthols by Scandium-Catalyzed Electrophilic Amination.",
       "authors": "Jiang Nan, Jingjing Liu, Huayu Zheng, Zhijun Zuo, Lei Hou, Huaiming Hu, Yaoyu Wang, Xinjun Luan*.",
       "journal": "Angew. Chem., Int. Ed.",
@@ -323,6 +415,7 @@
       "details": "54, 2356."
     },
     {
+      "visible": true,
       "title": "Pd(0)-Catalyzed Chemoselective Construction of Spirocarbocycles via an Alkyne Insertion/beta-Naphthol Dearomatization Cascade.",
       "authors": "Huayu Zheng, Lu Bai, Jingjing Liu, Jiang Nan, Zhijun Zuo, Liu Yang, Yaoyu Wang, Xinjun Luan*.",
       "journal": "Chem. Commun.",
@@ -330,6 +423,7 @@
       "details": "51, 3061."
     },
     {
+      "visible": true,
       "title": "Synthesis and Spectral Properties of Water-Soluble Indocyanine Dyes as well as the Interaction with DNA and BSA.",
       "authors": "Xiufu Zhang, Yile Fu, Zhijun Zuo, Yuan Hou, Yuexuan Li, Yanxia Liu, Lanying Wang*.",
       "journal": "Chin. J. Org. Chem.",
