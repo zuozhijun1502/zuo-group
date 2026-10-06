@@ -5,6 +5,9 @@
     "title": "Zhijun Zuo Research Group",
     "subtitle": "Photoredox, radical, and asymmetric metal catalysis in synthesis.",
     "backgroundImage": "assets/hero-lab.png",
+    "backgroundSize": "cover",
+    "backgroundPosition": "center",
+    "heroHeight": "standard",
     "titleSize": "normal",
     "textAlignment": "left",
     "buttons": []
@@ -42,6 +45,10 @@
           "role": "Postdoctoral Fellow",
           "photo": "",
           "photoFit": "cover",
+          "photoPosition": "center",
+          "photoSize": "standard",
+          "featured": false,
+          "tags": [],
           "degree": "",
           "year": "",
           "destination": ""
@@ -61,6 +68,8 @@
           "photoFit": "cover",
           "photoPosition": "center",
           "photoSize": "large",
+          "featured": false,
+          "tags": [],
           "degree": "",
           "year": "",
           "destination": ""
@@ -73,6 +82,8 @@
           "photoFit": "cover",
           "photoPosition": "center",
           "photoSize": "large",
+          "featured": false,
+          "tags": [],
           "degree": "",
           "year": "",
           "destination": ""
@@ -85,6 +96,8 @@
           "photoFit": "cover",
           "photoPosition": "center",
           "photoSize": "large",
+          "featured": false,
+          "tags": [],
           "degree": "",
           "year": "",
           "destination": ""
@@ -256,6 +269,20 @@
           "degree": "",
           "year": "",
           "destination": ""
+        },
+        {
+          "visible": true,
+          "name": "Luyao Li",
+          "role": "PhD. student",
+          "photo": "",
+          "photoFit": "cover",
+          "photoPosition": "center",
+          "photoSize": "standard",
+          "featured": false,
+          "tags": [],
+          "degree": "",
+          "year": "",
+          "destination": ""
         }
       ]
     },
@@ -268,6 +295,12 @@
           "visible": true,
           "name": "To be updated",
           "role": "Undergraduate Researcher",
+          "photo": "",
+          "photoFit": "cover",
+          "photoPosition": "center",
+          "photoSize": "standard",
+          "featured": false,
+          "tags": [],
           "degree": "",
           "year": "",
           "destination": ""
