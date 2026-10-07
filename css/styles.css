@@ -1380,6 +1380,72 @@ body[data-page="join"] .split-section h2::first-letter {
   font-weight: 760;
 }
 
+.site-visits {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 20px 36px;
+  padding: 22px clamp(20px, 6vw, 88px);
+  border-top: 1px solid rgba(255, 255, 255, 0.12);
+  color: rgba(255, 255, 255, 0.72);
+  background: #090d12;
+}
+
+.site-visits h2 {
+  margin: 0;
+  color: #fff;
+  font-size: 15px;
+  line-height: 1.4;
+}
+
+.site-visits-metrics {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px 36px;
+  margin: 0;
+}
+
+.site-visits-metrics > div {
+  display: grid;
+  gap: 2px;
+  min-width: 108px;
+}
+
+.site-visits dt,
+.site-visits-source {
+  font-size: 12px;
+}
+
+.site-visits dd {
+  min-height: 29px;
+  margin: 0;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 760;
+  font-variant-numeric: tabular-nums;
+}
+
+.site-visits-source {
+  margin-left: auto;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.site-visits-source:hover {
+  color: #fff;
+}
+
+@media (max-width: 620px) {
+  .site-visits {
+    gap: 16px;
+    padding: 22px 18px;
+  }
+
+  .site-visits h2 {
+    flex-basis: 100%;
+  }
+}
+
 @media (max-width: 1180px) {
   .brand {
     min-width: 240px;
